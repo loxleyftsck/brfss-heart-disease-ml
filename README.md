@@ -12,8 +12,8 @@
 **ADAPTA** is an academic data mining project focused on **predicting heart disease risk** using machine learning techniques applied to the **BRFSS 2020** (Behavioral Risk Factor Surveillance System) dataset from the CDC.
 
 ### Authors
-- **Herald Michain Samuel Theo** (NIM: 225314142)
-- **Fera Cisca Wanda Hamid** (NIM: 215314017)
+- **Herald Michain Samuel Theo** (NIM: 215314017)
+- **Fera Cisca Wanda Hamid** (NIM: 225314142)
 
 ### Institution
 Data Mining Course - Advanced Machine Learning Applications
